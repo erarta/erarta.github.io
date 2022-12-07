@@ -13,8 +13,8 @@
             "role": "Concept, Design, Development",
             "platforms": "",
             "url": "https://proxima.erarta.ai/",
-            "poster": "img/projects/seashepherd/seashepherd-poster-m.jpg",
-            "poster_m": "img/projects/seashepherd/seashepherd-poster-m.jpg",
+            "poster": "img/projects/proxima/proxima-poster-m.jpg",
+            "poster_m": "img/projects/proxima/proxima-poster-m.jpg",
             "categories": ["mobile", "Web AR"],
             "awards": [],
             "items": [
@@ -24,7 +24,7 @@
                         "vimeo_id": "347507060",
                         "video_name": "dektop_flow",
                         "vimeo_video_url": "https://player.vimeo.com/external/391444974.hd.mp4?s=0b1322870ca813f96e2599743e6bd2c3452bbe93&profile_id=175",
-                        "video_poster": "img/projects/seashepherd/ss-img-07.png",
+                        "video_poster": "img/projects/proxima/ss-img-07.png",
                         "src_width": 1535,
                         "src_height": 864,
                         "width_columns": 8,
@@ -41,7 +41,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/seashepherd/ss-img-01.png",
+                        "src": "img/projects/proxima/ss-img-01.png",
                         "src_width": 1535,
                         "src_height": 864,
                         "width_columns": 8,
@@ -59,7 +59,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/seashepherd/ss-img-06.png",
+                        "src": "img/projects/proxima/ss-img-06.png",
                         "src_width": 1536,
                         "src_height": 864,
                         "width_columns": 3,
@@ -70,7 +70,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/seashepherd/ss-img-02.png",
+                        "src": "img/projects/proxima/ss-img-02.png",
                         "src_width": 519,
                         "src_height": 921,
                         "width_columns": 3,
@@ -156,7 +156,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/seashepherd/ss-img-03.png",
+                        "src": "img/projects/proxima/ss-img-03.png",
                         "src_width": 519,
                         "src_height": 921,
                         "width_columns": 3,
@@ -167,7 +167,7 @@
                 {
                     "type": "image",
                     "data": {
-                        "src": "img/projects/seashepherd/ss-img-04.png",
+                        "src": "img/projects/proxima/ss-img-04.png",
                         "src_width": 519,
                         "src_height": 921,
                         "width_columns": 3,

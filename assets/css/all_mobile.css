@@ -2740,7 +2740,7 @@ h2.overlay-text,h3.overlay-text,p.overlay-text,span.overlay-text {
 @media screen and (orientation: landscape) {
     .rotate-overlay {
         display:block;
-    }
+    }   
 }
 
 .loadingIcon {
